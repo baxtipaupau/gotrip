@@ -119,11 +119,11 @@ header{
 }
 
 .img{
-    width: 950px;
-    height: 950px;
+    width: 920px;
+    height: 920px;
     position: relative;
-    bottom: 100px;
-    right: 300px;
+    bottom: 140px;
+    right: 260px;
 }
 
 .main{
